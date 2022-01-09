@@ -1,29 +1,27 @@
 #video {
     position: relative;
-    top: 0%;
     z-index: 0;
-    background-color: aquamarine;
-    height: 80%;
+    height: auto;
+    margin-top: 5%;
     z-index: 0;
-    padding-bottom: 200%;
+    padding-bottom: 0%;
 }
 
 
-
-#testi{
-font-family: "Suisse Intl";
-z-index: 30;
-margin-top: 0vh;
-margin-bottom: 0vh;
-position:relative;
-font-size: 3vh;
-}
-
-#spiegazione{
-    font-family: "Suisse Intl";
-    font-size: 1vh;
-    }
 
 #foto{
-    
-    height: 40%;}
+    position: relative;
+    margin-left: 0%;
+    margin-bottom: 10%;
+    height:auto}
+
+   
+
+    .imgproj {
+        position: relative;
+        margin-top: 1%;
+        padding: 1%;
+        width: 100%;
+   
+    }
+
